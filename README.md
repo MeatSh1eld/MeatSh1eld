@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/meatshield5" target="blank"><img src="https://img.shields.io/twitter/follow/meatshield5?logo=twitter&style=for-the-badge" alt="meatshield5" /></a> </p>
 
-- 🔭 I’m currently working on Dio Blendo(comming soon)
+- 🔨 I’m currently working on Dio Blendo(comming soon)
 
 - 🌱 I’m currently learning everything i can
 
